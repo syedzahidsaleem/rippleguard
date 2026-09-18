@@ -30,16 +30,6 @@
 
 ---
 
-## ℹ️ About
-
-**RippleGuard** is an open-source **Compromise Propagation & Blast Radius Simulator** for modern software supply chains (npm & PyPI) built for **Manipal Hackathon 2026** (Cybersecurity Track, SDG 9). It models live transitive dependency DAGs, simulates cascading infection wavefronts node-by-node in real time, and isolates high-impact chokepoint mitigations.
-
-- 🌐 **Live Demo:** [**https://rippleguard-nine.vercel.app/**](https://rippleguard-nine.vercel.app/)
-- 📖 **Documentation:** [`docs/`](./docs/)
-- 🔑 **API Keys:** Zero required (Keyless access to Google deps.dev & OSV.dev)
-
----
-
 ## ⚡ The Problem
 
 <img src="./docs/assets/screenshot-problem.png" alt="The Problem — supply chain attack visibility gap" width="100%"/>
