@@ -18,13 +18,13 @@
 
 <br/>
 
-[![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)](/)
-[![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)](/)
-[![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)](/)
+![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)
+![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)
+![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)
 
 <br/>
 
-[**🚀 Live Demo**](https://rippleguard-nine.vercel.app/) · [**📖 Docs**](./docs/) · [**🐛 Report Bug**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues) · [**✨ Request Feature**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues)
+[**🚀 Live Demo**](https://rippleguard-nine.vercel.app/) · [**📖 Docs**](./docs/) · [**🐛 Report Bug**](https://github.com/syedzahidsaleem/rippleguard/issues) · [**✨ Request Feature**](https://github.com/syedzahidsaleem/rippleguard/issues)
 
 </div>
 
@@ -141,8 +141,8 @@ $$P(v) = P(u) \cdot e^{-\lambda \cdot d} \cdot W_{\text{vuln}}(v)$$
 ### 1️⃣ Clone
 
 ```bash
-git clone https://github.com/Swapnil-Ghosh06/RippleGuard.git
-cd RippleGuard
+git clone https://github.com/syedzahidsaleem/rippleguard.git
+cd rippleguard
 ```
 
 ### 2️⃣ Backend
