@@ -18,13 +18,14 @@
 
 <br/>
 
-[![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)](/)
-[![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)](/)
-[![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)](/)
+[![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
+[![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
+[![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rippleguard--nine.vercel.app-blueviolet?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
 
 <br/>
 
-[**🚀 Live Demo**](#) · [**📖 Docs**](./docs/) · [**🐛 Report Bug**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues) · [**✨ Request Feature**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues)
+[**🚀 Live Demo**](https://rippleguard-nine.vercel.app/) · [**📖 Docs**](./docs/) · [**🐛 Report Bug**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues) · [**✨ Request Feature**](https://github.com/Swapnil-Ghosh06/RippleGuard/issues)
 
 </div>
 
@@ -46,7 +47,8 @@ Standard vulnerability scanners give you a raw list of 400 CVE alerts and no ide
 
 <img src="./docs/assets/screenshot-hero.png" alt="RippleGuard Hero — blast radius of a single package" width="100%"/>
 
-> *The no-brainer way to map exactly what breaks across your dependency tree when a package gets poisoned.*
+> *The no-brainer way to map exactly what breaks across your dependency tree when a package gets poisoned.*  
+> 🌐 **Live Application:** [**rippleguard-nine.vercel.app**](https://rippleguard-nine.vercel.app/)
 
 <div align="center">
 

@@ -237,7 +237,7 @@ List all 5 members with their roles (updated squads: Backend — Hari & Zahid | 
 
 ### Slide 14 — Thank You / Call to Action
 - RippleGuard — *See the compromise before it becomes a catastrophe*
-- Live Demo: [your vercel URL]
+- Live Demo: [https://rippleguard-nine.vercel.app/](https://rippleguard-nine.vercel.app/)
 - GitHub: github.com/[your-repo]
 - "In open source, no package is an island."
 
