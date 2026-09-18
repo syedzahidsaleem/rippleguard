@@ -18,10 +18,9 @@
 
 <br/>
 
-[![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
-[![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
-[![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-rippleguard--nine.vercel.app-blueviolet?style=flat-square&labelColor=black)](https://rippleguard-nine.vercel.app/)
+[![Hackathon](https://img.shields.io/badge/🏆_Manipal_Hackathon_2026-Cybersecurity_Track-red?style=flat-square&labelColor=black)](/)
+[![No API Keys](https://img.shields.io/badge/🔑_Zero_API_Keys-Required-brightgreen?style=flat-square&labelColor=black)](/)
+[![npm + PyPI](https://img.shields.io/badge/📦_npm_+_PyPI-Supported-blue?style=flat-square&labelColor=black)](/)
 
 <br/>
 
